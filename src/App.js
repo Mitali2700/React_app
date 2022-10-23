@@ -2,7 +2,8 @@ import './App.css';
 
 
 const stylingOptions ={
-  backgroundColor: "red"
+  backgroundColor: "red",
+  padding: "10px"
 }
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
       <div>
         hello world
       </div>
-      
+
     </div> 
     
     
