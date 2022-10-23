@@ -8,7 +8,7 @@ const stylingOptions ={
 
 function App() {
   return (
-    <div>
+    <>
     <div style={stylingOptions}>
       img
       const
@@ -18,11 +18,11 @@ function App() {
       {/* demo1 */}
       </div>
 
-      <div>
+      <div style={{backgroundColor:"blue", padding: "20px"}}>
         hello world
       </div>
 
-    </div> 
+    </> 
     
     
     // It is not HTML. It is JSX (Jvascript XML).
