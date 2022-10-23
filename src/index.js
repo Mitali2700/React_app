@@ -7,9 +7,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));  // index.htm
 root.render(
   <React.StrictMode>
     <App />  {/* app component jab bhi ise likhenge tab tab app.js wala */}
+    {/* <App />
     <App />
-    <App />
-    <App />
+    <App /> */}
   </React.StrictMode>
 );
 
