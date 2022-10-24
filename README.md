@@ -1,2 +1,2 @@
-<h1>Getting Started with Create React App</h1>
+<h1>MI Clone</h1>
 
