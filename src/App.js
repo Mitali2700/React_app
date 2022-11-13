@@ -1,11 +1,11 @@
 import './App.css';
-
+import PreNavbar from './components/PreNavbar'
 
 function App() {
  
   return (
     <div>
-
+        <PreNavbar/>
     </div>
     // It is not HTML. It is JSX (Jvascript XML).
     
@@ -13,6 +13,10 @@ function App() {
 }
 
 export default App;
+
+
+
+
 
 
 /* If we write: 
